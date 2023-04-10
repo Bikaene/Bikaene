@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bikaene
 - 👀 I’m interested in things
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web development
 
 <!---
 Bikaene/Bikaene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
